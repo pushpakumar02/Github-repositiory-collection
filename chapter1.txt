@@ -1,1 +1,1 @@
-Machine Learning, Natural Language Processing, Deep Learning, Artificial Intelligence, Data Virtualization
+ Machine Learning -->  Natural Language Processing -->  Deep Learning -->  Artificial Intelligence -->  Data Virtualization

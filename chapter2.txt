@@ -1,1 +1,8 @@
-Python --> DSA --> Problem Solving --> Apply for jobs
+Python --> DSA --> Problem Solving(coding contests) ----
+            |                                          |  
+            |                                          |  
+            |                                           ----> Apply for jobs
+            |                                          |
+            |                                          |
+            |                                          |
+            -----> Open source contributions -----------
