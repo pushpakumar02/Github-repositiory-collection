@@ -1,1 +1,8 @@
-python - DSA - Problem solving - applying for jobs
+python(or pick one programming language) --> DSA(Data Structures and Algorithms) --> Problem solving(Contests - weekly and Bi-weekly)------
+                                                                                                                                          |
+                                                                                                                                          |--------> applying for jobs                                                                                                                                           |
+                                                                                                                                          |        
+Personal Projects & Open Source Contributions on Github --> Participate in Hackathons -----------------------------------------------------
+
+
+
