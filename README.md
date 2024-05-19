@@ -485,3 +485,13 @@
    
 </details>
 
+
+## Contributing
+
+Contributions are welcome! Before contributing or raising any issues, please read the [contribution guidelines](CONTRIBUTING.md) for instructions on how to contribute effectively.
+
+Learn from the community and feel free to submit pull requests to help:
+
+- Fix errors
+- Improve existing sections
+- Add new sections
