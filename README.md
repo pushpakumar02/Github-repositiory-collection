@@ -5,6 +5,7 @@
 </p>
 
 <h2>LinkedIn Job Directory</h2>
+> Click to expand!👇
 <details>
 <summary><span style="font-size:1.17em">Company-wise</span></summary>
     
