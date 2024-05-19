@@ -1,7 +1,7 @@
 <h1 align="center">SDE-repositiory-collection</h1>
 
 <p align="center">
-  <img src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg" alt="SDE-repositiory-collection" width="200" height="100">
+  <img src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg" alt="SDE-repositiory-collection" width="300" height="200">
 </p>
 
 <h2>LinkedIn Job Directory</h2>
