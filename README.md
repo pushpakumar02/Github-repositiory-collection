@@ -1,4 +1,5 @@
-<h1>SDE-repositiory-collection</h1>
+<h1 align="center">SDE-repositiory-collection</h1>
+
 
 
 <h2>LinkedIn Job Directory</h2>
