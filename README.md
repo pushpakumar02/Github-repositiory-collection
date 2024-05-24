@@ -13,6 +13,7 @@
 * [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
 * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 * [interviews](https://github.com/kdn251/interviews)
+* [Resources-for-preparation-Of-Placements](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
 
 <h2>roadmap</h2>
 
