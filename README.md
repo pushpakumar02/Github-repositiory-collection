@@ -1,6 +1,6 @@
 <h1 align="center">
   SDE-repositiory-collection
-  <img src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg" alt="SDE-repositiory-collection" width="50" height="50">
+  <img src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg" alt="SDE-repositiory-collection" width="150" height="100">
 </h1>
 
 
