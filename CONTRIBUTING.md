@@ -1,4 +1,4 @@
-# Contributing to SDE Repository Collection
+# Contributing to Github Repository Collection
 
 Thank you for considering contributing to the SDE Repository Collection! Your contributions help make this repository a valuable resource for university students and alumni seeking internship and job opportunities.
 
@@ -8,13 +8,13 @@ If you encounter any issues such as missing companies or universities in the lis
 
 ## Making Contributions
 
-To contribute to the SDE Repository Collection, follow these steps:
+To contribute to the Github Repository Collection, follow these steps:
 
 1. Fork the repository to your GitHub account.
 2. Clone the forked repository to your local machine.
 3. Create a new branch for your changes: `git checkout -b my-branch-name`.
 4. Make your desired changes, whether it's adding new companies or universities, fixing broken URLs, or making improvements to the existing content.
-5. Commit your changes with descriptive commit messages: `git commit -m "Add XYZ company to the list"`.
+5. Commit your changes with descriptive commit messages.
 6. Push your changes to your forked repository: `git push origin my-branch-name`.
 7. Create a pull request (PR) from your forked repository to the main repository.
 8. Provide a clear description of your changes in the PR and link any relevant issues if applicable.
