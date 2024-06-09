@@ -1,1 +1,30 @@
- Artificial Intelligence --> Machine Learning -->Data Virtualization --> Deep Learning --> Natural Language Processing 
+1. Artificial Intelligence --> Machine Learning -->Data Virtualization --> Deep Learning --> Natural Language Processing 
+
+
+
+
+2. Python --> DSA --> Problem Solving(coding contests) ----
+            |                                          |  
+            |                                          |  
+            |                                           ----> Apply for jobs
+            |                                          |
+            |                                          |
+            |                                          |
+            -----> Open source contributions -----------
+
+
+
+
+3. Open Source Contributions --> Personal Projects --> Publications -->CV website
+
+
+
+
+4. python(or pick one programming language) --> DSA(Data Structures and Algorithms) --> Problem solving(Contests - weekly and Bi-weekly)------
+                                                                                                                                          |
+                                                                                                                                          |--------> applying for jobs                                                                                                                                           |
+                                                                                                                                          |        
+   Personal Projects & Open Source Contributions on Github --> Participate in Hackathons -----------------------------------------------------
+
+
+
