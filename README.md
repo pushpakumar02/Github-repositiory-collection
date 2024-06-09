@@ -50,6 +50,10 @@
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 
+<h2>Jobs</h2>
+
+* [LinkedIn-Job-Directory](https://github.com/Ask-for-referral/LinkedIn-Job-Directory)
+
 <h2>Miscellaneous</h2>
 
 * [awesome](https://github.com/sindresorhus/awesome)
@@ -59,9 +63,6 @@
 * [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
-<h2>Jobs</h2>
-
-* [LinkedIn-Job-Directory](https://github.com/Ask-for-referral/LinkedIn-Job-Directory)
 
 ## Contributing
 
