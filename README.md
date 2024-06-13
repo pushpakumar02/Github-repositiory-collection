@@ -64,7 +64,7 @@
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 <div align="right" dir="auto">
-  <b><a href="##study plan">↥ Back To Top</a></b>
+  <b><a href="#study plan">↥ Back To Top</a></b>
 </div>
 
 ## Contributing
